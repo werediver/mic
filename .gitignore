@@ -1,0 +1,8 @@
+# KiCad
+*.bak
+*-backups/
+fp-info-cache
+~*.lck
+
+/KiCad/**/Fab/
+/KiCad/**/Fab.zip
