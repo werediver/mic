@@ -2624,7 +2624,18 @@
 		)
 		(uuid "301db643-f682-4884-9905-b9763b8b6af1")
 	)
-	(text "Choose to get about\n(VCC-2)/2 V DC offset."
+	(text "68k / 10 k - 9.67 V\n47k / 6.8k - 9.81 V"
+		(exclude_from_sim no)
+		(at 166.37 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "52b19a2d-ff95-4d97-927a-199d725da535")
+	)
+	(text "Choose to get about\n2+(VCC-2)/2 V DC offset."
 		(exclude_from_sim no)
 		(at 41.91 27.94 0)
 		(effects
